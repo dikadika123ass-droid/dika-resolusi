@@ -3,3 +3,4 @@ rencana konten dika
 - belajar marge
 - belajar pull
 - belajar push
+- belajar lebih dalam
